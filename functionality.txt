@@ -1,0 +1,5 @@
+Functionality:
+WASD keys to move object
+Mouse scroll to zoom in and out the camera, Mouse button 1 to rotate the object
+
+Used Unity3D and a shader to give a 3D sphere texture, light effect and bumping effect
