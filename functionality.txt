@@ -1,0 +1,6 @@
+I used 2 scripts, 1 on the car object and 1 on the main camera
+The WASD buttons work well in moving the car object
+UPDATE:
+Mouse functionality ok including optimization for scroll wheel camera zoom
+
+The compaling software used was Unity3D as well as M Visual Studio 
